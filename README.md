@@ -18,7 +18,6 @@ This Tutorial will guide you through the process of setting up Network File Shar
 - Microsoft Azure Virtual Machines
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
