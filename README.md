@@ -26,7 +26,7 @@ This Tutorial will guide you through the process of setting up Network File Shar
 
 <h2>List of Prerequisites</h2>
 
-- Windows Server Installed and COnfigured
+- Windows Server Installed and Configured
 - Active Directory Set up
 - Two Virtual Machines connected to the Domain
 - Administrative access to Server and Clients
